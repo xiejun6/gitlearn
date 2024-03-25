@@ -6,4 +6,5 @@ c++
 shell
 php
 c
+erlang
 python
